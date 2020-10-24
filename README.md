@@ -1,3 +1,15 @@
+# Molecules for py3
+
+please check out **sharing.md** to see the modification that I made.
+package version: 
+
+```
+apache-beam[gcp]==2.17.0
+tensorflow-transform==0.21.2
+tensorflow==1.15.0
+```
+
+
 # Molecules
 For more details, see [Machine Learning with Apache Beam and TensorFlow](https://cloud.google.com/dataflow/examples/molecules-walkthrough) in the docs.
 
